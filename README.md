@@ -62,11 +62,11 @@ It provides insights into loan applications, funded amounts, repayment trends, a
 
 ## 📸 Dashboard Screenshots
 
-![Summary](ScreenShot/Summary.png)  
-![Overview](ScreenShot/Overview.png)  
-![Details](ScreenShot/Details.png)  
+![Summary](screenshots/summary.png)  
+![Overview](screenshots/overview.png)  
+![Details](screenshots/details.png)  
 
----Details
+---
 
 ## 🚀 How to Use
 1. Download the `.pbix` file  
