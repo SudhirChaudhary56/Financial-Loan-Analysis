@@ -60,14 +60,6 @@ It provides insights into loan applications, funded amounts, repayment trends, a
 
 ---
 
-## 📸 Dashboard Screenshots
-
-![Summary](screenshots/summary.png)  
-![Overview](screenshots/overview.png)  
-![Details](screenshots/details.png)  
-
----
-
 ## 🚀 How to Use
 1. Download the `.pbix` file  
 2. Open in Power BI Desktop  
